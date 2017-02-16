@@ -3,11 +3,8 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<link rel="stylesheet" type="text/css" href="menu.css" />
-<title>CSS Simple Drop Down Menu</title>
-</head>
-<body>
-  ul {
+ <style>
+ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -27,12 +24,15 @@ li a {
     text-decoration: none;
 }
 
-/* Change the link color to #111 (black) on hover */
 li a:hover {
     background-color: #111;
 }
+</style> 
   
-  
+<link rel="stylesheet" type="text/css" href="menu.css" />
+<title>CSS Simple Drop Down Menu</title>
+</head>
+<body>
 <div class="drop">
 <ul class="drop_menu">
 <li><a href='#'>Link 1</a>
