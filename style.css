@@ -2,7 +2,8 @@ h1{text-align: center}
 h3{text-align: center}
 h2{text-align: center}
 p{text-align: center}
-body{background-color: #F0F8FF}
+body{background-image: url("https://static1.squarespace.com/static/55a412f8e4b0f856da3e0e45/t/5762d56129687f92e02a64bf/1466094958726/?format=750w");
+    }
 span {display:block;
     margin:auto;}
 button {display:block;
