@@ -3,7 +3,5 @@ h3{text-align: center}
 h2{text-align: center}
 p{text-align: center}
 body{background-color: #F0F8FF}
-span {
-    float: center;
-    margin: 0 0 10px 10px;
-}
+span {display:block;
+    margin:auto;}
