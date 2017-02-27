@@ -6,3 +6,7 @@ span {display:block;
     margin: center;}
 button {display:block;
     margin: center;}
+
+.dropdown {
+    text-align: center;
+}
