@@ -2,11 +2,7 @@ h1{text-align: center}
 h3{text-align: center}
 h2{text-align: center}
 p{text-align: center}
-span {
-    text-align: center;}
-button {display:block;
-    margin: center;}
-
-.dropdown {
-    text-align: center;
-}
+h6{text-align: center}
+span {text-align: center}
+button {text-align: center}
+dropdown {text-align: center}
