@@ -1,8 +1,3 @@
-h1{text-align: center}
-h3{text-align: center}
-h2{text-align: center}
-p{text-align: center}
-h6{text-align: center}
-span {text-align: center}
-button {text-align: center}
-.dropbtn {text-align: center}
+body {
+  text-align: center;
+}
